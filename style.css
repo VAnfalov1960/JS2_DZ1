@@ -1,0 +1,34 @@
+header {
+  width: 100%;
+  height: 40px;
+  background-color: aqua;
+  border: 2px solid orangered;
+}
+.goods-list {
+  width: 203px;
+  margin: 10px;
+  padding-top: 3px;
+  background-color: blue;
+  border: 2px solid orangered;
+}
+
+.cart-button {
+  width: 70px;
+  height: 30px;
+  margin: 5px;
+  background-color: green;
+  color: white;
+}
+.cart-button:hover {
+  background-color: rgb(14, 64, 14);
+}
+
+.goods-item {
+  width: 170px;
+  height: 90px;
+  margin: 10px;
+  background-color: rosybrown;
+  border: 2px solid orangered;
+  color: white;
+  padding-left: 10px;
+}
